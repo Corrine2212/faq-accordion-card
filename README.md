@@ -11,8 +11,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
-    - [Links](#links-1)
-  - [My process](#my-process-1)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
@@ -32,17 +30,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-using-html-and-css-f2Ia4Ywll_
-- Live page : https://corrine2212.github.io/four-card-feature-section/
+- Solution URL: 
+- Live page : https://corrine2212.github.io/faq-accordion-card/
 
 ## My process
 
@@ -54,7 +46,6 @@ Users should be able to:
 
 
 ### What I learned
-
 ...
 
 ## Author
